@@ -17,3 +17,6 @@ brownie-contracts-nfts/
 tweet.md
 nfts-zksync-foundry/ 
 nfts-zksync-hardhat/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
